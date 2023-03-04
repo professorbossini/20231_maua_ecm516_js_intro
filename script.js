@@ -1,3 +1,65 @@
+//funções
+
+
+// const dobro = valor => valor * 2
+// console.log(dobro(2))
+
+// const ehPar = (n) =>
+//   n % 2 === 0
+
+
+console.log(ehPar(3))
+
+// const hello = () => console.log("Hello")
+// console.log(hello())
+
+// const teste = (a, b, c) => a * b * c
+// console.log(teste(1, 2, 3))
+// a => {console.log(a)}
+// (a, b) => console.log(a + b) //syntax sugar
+
+
+//valor padrão para um parâmetro
+// const triplo = function(n = 5){
+//   return n * 3
+// }
+// console.log(triplo())
+// console.log(triplo(7))
+
+// const dobro = function (n){
+//   return 2 * n
+// }
+// const res = dobro(5)
+// const res2 = dobro(15)
+// console.log(res)
+// function soma(a, b){
+//   return a + b
+// }
+// console.log(soma(2, 3))
+// function hello(){
+//   console.log('Hello')
+// }
+// hello()
+
+// function hello(nome){
+//   console.log('Hello ' + nome)
+// }
+// hello('Flavia')
+
+
+
+// public class Teste{
+//   public void hello(){
+
+//   }
+//   public void hello(){
+
+//   }
+// }
+
+// Teste t = new Teste();
+// t.hello();
+
 // const valores = [1, 2, 3, 4]
 // const soma = valores.reduce((ac, v) => {return ac + v})
 // console.log(soma)
