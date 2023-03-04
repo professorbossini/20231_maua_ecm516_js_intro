@@ -1,3 +1,51 @@
+// const valores = [1, 2, 3, 4]
+// const soma = valores.reduce((ac, v) => {return ac + v})
+// console.log(soma)
+
+
+// const nomes = ['Ana Maria', 'Antonio', 'Rodrigo', 'Alex', 'Cristina']
+// const letrasIniciais = nomes.map((nome) => {return nome.charAt(0)})
+// console.log(letrasIniciais)
+
+// const numeros = [1, 2, 3, 4, 5]
+// console.log(numeros.map((n) => {return n * n}))
+//[1, 2, 3, 4, 5] => [1, 4, 9, 16, 25]
+
+// const resultado = nomes.filter((nome) => {return nome.startsWith("A")})
+// console.log(resultado)
+//mapeamento
+//['Ana', 'Pedro'] => ['A', 'P']
+
+
+// const n1 = 'Flavia'
+// const n2 = "Rodrigo"
+// const n3 = `Silvia`
+
+
+
+//filter
+//arrow function
+// const teste = () => {console.log("minha arrow function")}
+// teste()
+// const a = 1
+
+
+
+// function soma(a, b){
+//   return(
+//     a + b
+//   );
+// }
+// console.log(soma(2, 3))
+// v = [2, 'abc', true]
+
+//1.5 vetores
+// v1 = []
+// v1[0] = 3.4
+// v1[10] = 2
+// console.log(v1)
+// for (let i = 0; i < v1.length; i++)
+//   console.log(v1[i])
 
 
 // console.log(true == 1)
