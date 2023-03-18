@@ -1,15 +1,15 @@
 //objetos literais Javascript
 //(JSON) Javascript Object Notation
 //calculadora que soma dois valores e subtrair um valor de outro
-let calc = {
-  soma: (a, b) => a + b,
-  subtracao: function(a, b){
-    return a - b
-  }
-}
+// let calc = {
+//   soma: (a, b) => a + b,
+//   subtracao: function(a, b){
+//     return a - b
+//   }
+// }
 
-console.log(calc.soma(2, 3))
-console.log(calc['subtracao'](5, 2))
+// console.log(calc.soma(2, 3))
+// console.log(calc['subtracao'](5, 2))
 
 
 
