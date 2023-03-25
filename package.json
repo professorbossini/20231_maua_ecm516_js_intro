@@ -1,0 +1,24 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "previsao.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/professorbossini/20231_maua_ecm516_js_intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/professorbossini/20231_maua_ecm516_js_intro/issues"
+  },
+  "homepage": "https://github.com/professorbossini/20231_maua_ecm516_js_intro#readme",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "dotenv": "^16.0.3"
+  }
+}
